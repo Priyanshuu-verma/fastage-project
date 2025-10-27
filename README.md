@@ -23,7 +23,12 @@ A modern **React** application for seamless **FASTag recharge**, offering multip
 - 💅 **CSS3**
 
 ---
-<img width="1343" height="435" alt="Screenshot 2025-10-27 104042" src="https://github.com/user-attachments/assets/9ed042d1-4df0-466c-bf98-e183f5f97708" />
+<img width="1344" height="671" alt="Screenshot 2025-10-27 103937" src="https://github.com/user-attachments/assets/ba48b876-40ee-4872-951b-1ce1a1415207" />
+<img width="1335" height="667" alt="Screenshot 2025-10-27 103957" src="https://github.com/user-attachments/assets/b645da19-7b52-4279-9568-f20095486985" />
+
+<img width="1341" height="475" alt="Screenshot 2025-10-27 104013" src="https://github.com/user-attachments/assets/885950b8-980f-496b-abcd-da0663ec2f58" />
+<img width="1338" height="601" alt="Screenshot 2025-10-27 104027" src="https://github.com/user-attachments/assets/b1c7138e-15cf-4729-b0e6-77b8ca83ccc4" />
+<img width="1343" height="435" alt="Screenshot 2025-10-27 104042" src="https://github.com/user-attachments/assets/e641fa97-c223-4784-af77-b229d6419f03" />
 
 ## 📦 Installation
 
