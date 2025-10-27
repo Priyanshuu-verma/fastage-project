@@ -23,19 +23,14 @@ A modern **React** application for seamless **FASTag recharge**, offering multip
 - 💅 **CSS3**
 
 ---
+<img width="1343" height="435" alt="Screenshot 2025-10-27 104042" src="https://github.com/user-attachments/assets/9ed042d1-4df0-466c-bf98-e183f5f97708" />
 
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
 ```bash
 
-screenshot section
 
-<img width="1344" height="671" alt="Screenshot 2025-10-27 103937" src="https://github.com/user-attachments/assets/dd1cae0f-d419-431c-ba86-e7df2e8f5aed" />
-<img width="1335" height="667" alt="Screenshot 2025-10-27 103957" src="https://github.com/user-attachments/assets/fdcf1ac7-8810-44f4-a171-8904f057c3a5" />
-<img width="1341" height="475" alt="Screenshot 2025-10-27 104013" src="https://github.com/user-attachments/assets/24c5c097-622f-4239-878f-a075aa4d2e9f" />
-<img width="1338" height="601" alt="Screenshot 2025-10-27 104027" src="https://github.com/user-attachments/assets/396be8f0-ec20-45f4-b88a-feb0b5bc348d" />
-<img width="1343" height="435" alt="Screenshot 2025-10-27 104042" src="https://github.com/user-attachments/assets/80327793-5948-42c0-8703-5ea6c71e2661" />
 
 git clone https://github.com/Priyanshuu-verma/fastag-react-app.git
 cd fastag-react-app
